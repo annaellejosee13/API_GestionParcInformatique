@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\ViewModel\\GestionPostesViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\AppShell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\models\\remontees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\models\\remontees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\remonteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\remonteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\postecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\postecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\controllers\\parccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\controllers\\parccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\models\\parc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\models\\parc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\dto\\postedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\dto\\postedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\models\\poste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\models\\poste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|m:\\ecole\\pr3 c#\\projet pr3\\api_parc\\api_projet_parc_informatique\\api_projet_parc_informatique\\bdconnect\\parcinfobdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E6B7F4-268B-450A-AD95-A6A2684FD538}|API_projet_parc_informatique\\API_projet_parc_informatique.csproj|solutionrelative:api_projet_parc_informatique\\bdconnect\\parcinfobdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionPostesViewModel.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\ViewModel\\GestionPostesViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\mobile_it_management\\AppMobile\\AppMobile\\ViewModel\\GestionPostesViewModel.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\ViewModel\\GestionPostesViewModel.cs",
+              "RelativeToolTip": "..\\..\\mobile_it_management\\AppMobile\\AppMobile\\ViewModel\\GestionPostesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:28:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\mobile_it_management\\AppMobile\\AppMobile\\AppShell.xaml.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\mobile_it_management\\AppMobile\\AppMobile\\AppShell.xaml.cs",
+              "RelativeToolTip": "..\\..\\mobile_it_management\\AppMobile\\AppMobile\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:28:04.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Remontees.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Remontees.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Models\\Remontees.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Remontees.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Models\\Remontees.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:59:16.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParcController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\ParcController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\ParcController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\ParcController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\ParcController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:59:04.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parc.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Parc.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Models\\Parc.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Parc.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Models\\Parc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:49:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Models\\User.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\User.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:49:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthentificationController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\AuthentificationController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\AuthentificationController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\AuthentificationController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\AuthentificationController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:56:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\WeatherForecast.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\WeatherForecast.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:00:35.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemonteeController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\RemonteeController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\RemonteeController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\RemonteeController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\RemonteeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:35:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\UserController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:50:42.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalleController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\SalleController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\SalleController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\SalleController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\SalleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:35:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Program.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Program.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Program.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:52:54.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\TicketController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:50:35.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PosteController.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\PosteController.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Controllers\\PosteController.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Controllers\\PosteController.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Controllers\\PosteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:26:04.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Poste.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Poste.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\Models\\Poste.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\Models\\Poste.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\Models\\Poste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:26:12.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PosteDTO.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\DTO\\PosteDTO.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\DTO\\PosteDTO.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\DTO\\PosteDTO.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\DTO\\PosteDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:18:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParcInfoBdContext.cs",
+              "DocumentMoniker": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\BDConnect\\ParcInfoBdContext.cs",
+              "RelativeDocumentMoniker": "API_projet_parc_informatique\\BDConnect\\ParcInfoBdContext.cs",
+              "ToolTip": "M:\\ECOLE\\PR3 C#\\PROJET PR3\\api_parc\\API_projet_parc_informatique\\API_projet_parc_informatique\\BDConnect\\ParcInfoBdContext.cs",
+              "RelativeToolTip": "API_projet_parc_informatique\\BDConnect\\ParcInfoBdContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:26:06.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
